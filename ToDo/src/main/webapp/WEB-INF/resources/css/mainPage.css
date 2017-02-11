@@ -1,0 +1,56 @@
+.sm3Text{
+    color: white;
+    text-align: center;
+}
+
+
+.col-sm-3{
+    background-color: #F0C653;
+}
+
+.row-height{
+    height: 100vh;
+}
+
+.hr {
+    border-top: 1px white;
+}
+
+.listItem {
+    margin-top: 100px;
+}
+
+.navbar {
+    height: 65px;
+    background-color: #DDFFA9;
+    width: 100%;
+}
+
+#pullRight{
+    position: relative;
+    float:right;
+    margin-right: 4px;
+    margin-top: 7px;
+
+}
+
+#pullLeft {
+    float:left;
+    margin-top: 7px;
+    color: #0C6C0C;
+}
+
+#mainContainer {
+    height: 90.5vh;
+    width: 100%;
+}
+
+#listItem {
+    display: inline-block;
+    width: 100%;
+}
+
+.btn-primary-outline{
+    background-color: transparent;
+    border-color: #ccc;
+}
